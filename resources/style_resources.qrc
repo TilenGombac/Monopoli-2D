@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/css">
+        <file>css/buttons/exitButton.css</file>
+        <file>css/buttons/minimizeButton.css</file>
+        <file>css/buttons/buttonElement.css</file>
+        <file>css/buttons/settingsButton.css</file>
+        <file>css/buttons/globalButton.css</file>
+    </qresource>
+</RCC>

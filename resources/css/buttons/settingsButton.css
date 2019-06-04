@@ -1,0 +1,12 @@
+QPushButton
+{
+	border: none;
+	background-color: none;
+	background-repeat: none;
+	background-image: url(:/img/img/buttons/control/settings.png);
+}
+
+QPushButton:hover
+{
+	background-image: url(:/img/img/buttons/control/settingsHover.png);
+}

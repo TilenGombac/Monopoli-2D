@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/font">
+        <file>font/Archive.otf</file>
+        <file>font/BakersfieldBold.ttf</file>
+        <file>font/BakersfieldLight.ttf</file>
+        <file>font/MadrasExtraBoldItalic.otf</file>
+    </qresource>
+</RCC>

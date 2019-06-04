@@ -1,0 +1,12 @@
+[14:54:50] Dice roll
+6, 4
+
+[14:54:50] Dice roll
+2, 3
+
+[14:54:53] Dice roll
+4, 6
+
+[14:54:53] Token animationSetup
+TargetID: 10
+

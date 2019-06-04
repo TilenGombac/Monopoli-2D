@@ -1,0 +1,17 @@
+QPushButton
+{
+	border: none;
+	background-color: none;
+	background-repeat: none;
+	background-image: url(:/img/img/buttons/control/minimize.png);
+}
+
+QPushButton:hover
+{
+	background-image: url(:/img/img/buttons/control/minimizeHover.png);
+}
+
+QPushButton:pressed
+{
+	background-image: url(:/img/img/buttons/control/minimizeActive.png);
+}

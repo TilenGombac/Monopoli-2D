@@ -1,0 +1,267 @@
+[14:12:19] Dice roll
+5, 1
+
+[14:12:19] Dice roll
+1, 1
+
+[14:12:21] Dice roll
+5, 6
+
+[14:12:21] Token animationSetup
+TargetID: 11
+
+[14:12:24] Dice roll
+5, 5
+
+[14:12:24] Token animationSetup
+TargetID: 10
+
+[14:12:28] Dice roll
+3, 3
+
+[14:12:28] Token animationSetup
+TargetID: 16
+
+[14:12:29] Withdraw
+Amount: 180
+
+[14:12:30] Dice roll
+6, 5
+
+[14:12:30] Token animationSetup
+TargetID: 27
+
+[14:12:33] Withdraw
+Amount: 260
+
+[14:12:38] Dice roll
+3, 2
+
+[14:12:38] Token animationSetup
+TargetID: 16
+
+[14:12:38] Deposit
+Amount: 10
+
+[14:12:38] Request payment
+Payment requested on Tilen, amount: 10
+
+[14:12:38] Withdraw
+Amount: 10
+
+[14:12:42] Dice roll
+4, 2
+
+[14:12:42] Token animationSetup
+TargetID: 33
+
+[14:13:58] Dice roll
+3, 1
+
+[14:13:58] Dice roll
+2, 6
+
+[14:13:59] Dice roll
+3, 1
+
+[14:13:59] Token animationSetup
+TargetID: 4
+
+[14:14:00] Withdraw
+Amount: 200
+
+[14:14:01] Dice roll
+4, 2
+
+[14:14:01] Token animationSetup
+TargetID: 6
+
+[14:14:04] Dice roll
+4, 3
+
+[14:14:04] Token animationSetup
+TargetID: 11
+
+[14:14:06] Withdraw
+Amount: 140
+
+[14:14:27] Dice roll
+6, 1
+
+[14:14:27] Token animationSetup
+TargetID: 13
+
+[14:14:30] Dice roll
+6, 4
+
+[14:14:30] Token animationSetup
+TargetID: 21
+
+[14:14:33] Withdraw
+Amount: 220
+
+[14:17:39] Dice roll
+2, 6
+
+[14:17:39] Dice roll
+3, 3
+
+[14:17:40] Dice roll
+2, 6
+
+[14:17:40] Token animationSetup
+TargetID: 8
+
+[14:17:44] Dice roll
+3, 2
+
+[14:17:44] Token animationSetup
+TargetID: 5
+
+[14:17:45] Withdraw
+Amount: 200
+
+[14:17:46] Withdraw
+Amount: 100
+
+[14:17:46] Dice roll
+4, 2
+
+[14:17:46] Token animationSetup
+TargetID: 14
+
+[14:17:48] Withdraw
+Amount: 160
+
+[14:17:49] Dice roll
+4, 5
+
+[14:17:49] Token animationSetup
+TargetID: 14
+
+[14:17:51] Deposit
+Amount: 12
+
+[14:17:51] Withdraw
+Amount: 12
+
+[14:17:53] Dice roll
+1, 5
+
+[14:17:53] Token animationSetup
+TargetID: 20
+
+[14:17:56] Dice roll
+1, 4
+
+[14:17:56] Token animationSetup
+TargetID: 19
+
+[14:17:57] Withdraw
+Amount: 200
+
+[15:34:55] Dice roll
+4, 3
+
+[15:34:55] Dice roll
+1, 3
+
+[15:37:18] Dice roll
+3, 6
+
+[15:37:18] Dice roll
+6, 2
+
+[15:38:33] Dice roll
+3, 6
+
+[15:38:33] Dice roll
+6, 5
+
+[15:38:34] Dice roll
+1, 4
+
+[15:38:34] Token animationSetup
+TargetID: 5
+
+[15:38:36] Withdraw
+Amount: 200
+
+[15:38:51] Dice roll
+1, 6
+
+[15:38:51] Dice roll
+6, 3
+
+[15:38:52] Dice roll
+1, 2
+
+[15:38:52] Token animationSetup
+TargetID: 3
+
+[15:38:52] Withdraw
+Amount: 60
+
+[15:39:51] Dice roll
+2, 4
+
+[15:39:51] Dice roll
+3, 3
+
+[15:40:27] Dice roll
+3, 5
+
+[15:40:27] Dice roll
+2, 3
+
+[15:41:15] Dice roll
+5, 3
+
+[15:41:15] Dice roll
+1, 4
+
+[15:41:51] Dice roll
+2, 6
+
+[15:41:51] Dice roll
+5, 5
+
+[15:41:52] Dice roll
+6, 3
+
+[15:41:52] Token animationSetup
+TargetID: 9
+
+[15:41:55] Withdraw
+Amount: 120
+
+[15:42:48] Dice roll
+5, 5
+
+[15:42:48] Dice roll
+1, 2
+
+[15:43:10] Dice roll
+6, 3
+
+[15:43:10] Dice roll
+6, 4
+
+[15:43:11] Dice roll
+6, 6
+
+[15:43:11] Token animationSetup
+TargetID: 12
+
+[15:43:14] Withdraw
+Amount: 150
+
+[15:43:15] Dice roll
+1, 5
+
+[15:43:15] Token animationSetup
+TargetID: 18
+
+[15:43:16] Withdraw
+Amount: 180
+

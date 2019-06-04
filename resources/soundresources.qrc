@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>sound/automobile.mp3</file>
+        <file>sound/battleship.mp3</file>
+        <file>sound/card.mp3</file>
+        <file>sound/deposit.mp3</file>
+        <file>sound/dice.mp3</file>
+        <file>sound/error.mp3</file>
+        <file>sound/howitzer.mp3</file>
+        <file>sound/information.mp3</file>
+        <file>sound/scottishTerrier.mp3</file>
+        <file>sound/warning.mp3</file>
+        <file>sound/withdraw.mp3</file>
+        <file>sound/home.mp3</file>
+    </qresource>
+</RCC>
