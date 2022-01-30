@@ -1,5 +1,5 @@
 # Monopoli 2D
-C++ and Qt implementation of the board game Monopoly with multiplayer and AI support.
+C++ and Qt implementation of the board game Monopoly with multiplayer and bot support.
 
 This was my secondary school graduation project.
 
